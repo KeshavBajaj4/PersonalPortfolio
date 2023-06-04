@@ -247,7 +247,7 @@ def certifications_page():
     st.markdown("<h2 class='title'>Certifications</h2>", unsafe_allow_html=True)
     st.markdown("<div class='content'>", unsafe_allow_html=True)
     st.write("- [Microsoft Az-900](https://www.credly.com/badges/4429568b-8f97-424b-919c-5ae36e2617ae/linked_in_profile)")
-    st.image("/home/keshav/Desktop/Az900.png", use_column_width=True, caption="Microsoft Az-900 Certification")
+    st.image("./Az900.png", use_column_width=True, caption="Microsoft Az-900 Certification")
     # Add more certifications here
     st.markdown("</div>", unsafe_allow_html=True)
     st.markdown("</div>", unsafe_allow_html=True)
